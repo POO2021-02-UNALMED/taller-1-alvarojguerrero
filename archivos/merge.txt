@@ -1,3 +1,6 @@
 Alvaro Javier Guerrero Recalde
 26 años
 Comprender a plenitud el paradigma de programacion orientada a obejtos
+Ahora se pudo crear el commit porque la carpeta ya contenia un archivo
+Es importante tener cuidado con modificar dos archivos al mismo tiempo porque podemos
+perder la informacion de alguno
