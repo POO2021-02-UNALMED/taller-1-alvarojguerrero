@@ -1,3 +1,4 @@
 Alvaro Javier Guerrero Recalde
 26 años
 Comprender a plenitud el paradigma de programacion orientada a obejtos
+Hubo conflictos de subir el nuevo archivo porque la habian cambios en el rama principal
